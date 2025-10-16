@@ -19,6 +19,8 @@ It marks the beginning of the HNG-13 journey, demonstrating a basic server setup
 ---
 
 ## ⚙️ Technologies Used
+- HTML
+- CSS
 - NGINX (Web Server)
 - Linux (Ubuntu)
 - Cloud Platform: AWS 
