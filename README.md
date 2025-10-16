@@ -28,9 +28,11 @@ It marks the beginning of the HNG-13 journey, demonstrating a basic server setup
 ## 🚀 Deployment Steps
 1. Fork the repo `hng13-stage0-devops`
 2. Edit the `index.html` file to include:  
-```Welcome to DevOps Stage 0 - [Your Name]/[SlackUsername]  
+```
+Welcome to DevOps Stage 0 - [Your Name]/[SlackUsername]  
 Successfully deployed on [Platform Name]  
-Deployed: [Date]```
+Deployed: [Date]
+```
 3. Copy `index.html` to `/var/www/html/index.html`
 4. Ensure NGINX is running and accessible on port **80**
 5. Verify via browser: `http://<your-server-ip>/`
